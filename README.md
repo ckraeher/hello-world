@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I hear Hubot prefers tacos from the moon. He probably wasn't eating tacos where I come from ; -)
